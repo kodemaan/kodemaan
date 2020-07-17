@@ -1,6 +1,4 @@
-### Steven Smith
-
-### Web Developer
+### Steven Smith - Web Developer
 
 ### Skills
 * React
