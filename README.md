@@ -1,16 +1,14 @@
-### Hi there 👋
+### Steven Smith
 
-<!--
-**kodemaan/kodemaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer
 
-Here are some ideas to get you started:
+### Skills
+* React
+* Node
+* PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My Personal Site](https://kodemaan-personal-site.netlify.app)
+
+### How to Reach Me
+* [Twitter @kodemaan](https://twitter.com/kodemaan)
+* [LinkedIn](https://www.linkedin.com/in/steven-smith-b4b5a41b/)
