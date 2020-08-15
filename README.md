@@ -10,3 +10,5 @@
 ### How to Reach Me
 * [Twitter @kodemaan](https://twitter.com/kodemaan)
 * [LinkedIn](https://www.linkedin.com/in/steven-smith-b4b5a41b/)
+
+[![Kodemaan's github stats](https://github-readme-stats.vercel.app/api?username=kodemaan)](https://github.com/anuraghazra/github-readme-stats)
